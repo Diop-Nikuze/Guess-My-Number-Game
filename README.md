@@ -1,4 +1,4 @@
-## Guess-My-Number 
+## Guess My Number Game
 
 It is a game where you have to find an exact number at random, and win points 
 
